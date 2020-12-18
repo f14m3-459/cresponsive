@@ -12,7 +12,7 @@ border-radius:15rem;
 background: linear-gradient(to right,rgba(190,251,63,0.7231267507002801) 0%, rgba(155,252,69,1) 29%, rgba(129,252,73,1) 65%, rgba(70,252,82,0.8211659663865546));
 }
 #logo{
-    padding:2rem 10rem;
+    padding:2rem 2rem;
     margin-bottom:20%;
     display: flex;
     align-items: center;
@@ -26,7 +26,7 @@ img{
     background-color: rgba(190,251,63,0.4458158263305322);
     box-shadow: 2px 5px 10px lightgreen;
     width:20%;
-    height:90%;
+    height:80%;
     border-radius: 5%;
     padding:0rem 3rem;
 }
