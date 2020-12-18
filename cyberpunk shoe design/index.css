@@ -4,6 +4,10 @@ body{
     justify-content: center;
 
 }
+div{
+font-weight:lighter;
+}
+
 .c{
 position:absolute;
 width: 12rem;
